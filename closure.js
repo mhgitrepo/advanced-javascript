@@ -5,7 +5,7 @@ function stopWatch(){
         return count;
     }
 }
-
+// console.log(count);
 const clock1 = stopWatch();
 console.log(clock1());
 console.log(clock1());
