@@ -21,6 +21,6 @@ console.log(nums);
 //Array Join
 
 const nums = [1, 2, 3, 4, 5, 6, 7, 8];
-const together = nums.join("-");
+const together = nums.join(",");
 
 console.log(together);
